@@ -1,0 +1,6 @@
+{
+  "name": "Organizador de Tareas",
+  "description": "Una aplicación para organizar tareas escolares con fechas de entrega, clasificación por materias, prioridades, recordatorios y calendario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
